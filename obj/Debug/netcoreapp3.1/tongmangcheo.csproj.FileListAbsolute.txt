@@ -1,0 +1,13 @@
+C:\Users\admin\source\repos\tongmangcheo\tongmangcheo\bin\Debug\netcoreapp3.1\tongmangcheo.exe
+C:\Users\admin\source\repos\tongmangcheo\tongmangcheo\bin\Debug\netcoreapp3.1\tongmangcheo.deps.json
+C:\Users\admin\source\repos\tongmangcheo\tongmangcheo\bin\Debug\netcoreapp3.1\tongmangcheo.runtimeconfig.json
+C:\Users\admin\source\repos\tongmangcheo\tongmangcheo\bin\Debug\netcoreapp3.1\tongmangcheo.runtimeconfig.dev.json
+C:\Users\admin\source\repos\tongmangcheo\tongmangcheo\bin\Debug\netcoreapp3.1\tongmangcheo.dll
+C:\Users\admin\source\repos\tongmangcheo\tongmangcheo\bin\Debug\netcoreapp3.1\tongmangcheo.pdb
+C:\Users\admin\source\repos\tongmangcheo\tongmangcheo\obj\Debug\netcoreapp3.1\tongmangcheo.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\tongmangcheo\tongmangcheo\obj\Debug\netcoreapp3.1\tongmangcheo.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\tongmangcheo\tongmangcheo\obj\Debug\netcoreapp3.1\tongmangcheo.AssemblyInfo.cs
+C:\Users\admin\source\repos\tongmangcheo\tongmangcheo\obj\Debug\netcoreapp3.1\tongmangcheo.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\tongmangcheo\tongmangcheo\obj\Debug\netcoreapp3.1\tongmangcheo.dll
+C:\Users\admin\source\repos\tongmangcheo\tongmangcheo\obj\Debug\netcoreapp3.1\tongmangcheo.pdb
+C:\Users\admin\source\repos\tongmangcheo\tongmangcheo\obj\Debug\netcoreapp3.1\tongmangcheo.genruntimeconfig.cache
